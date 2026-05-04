@@ -1,0 +1,21 @@
+{
+  "name": "clean-architecture-node",
+  "version": "1.0.0",
+  "description": "Proyecto básico en Node.js aplicando Clean Architecture para mostrar un mensaje en consola y separar el código por capas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaederysT/clean-architecture-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NaederysT/clean-architecture-node/issues"
+  },
+  "homepage": "https://github.com/NaederysT/clean-architecture-node#readme"
+}
